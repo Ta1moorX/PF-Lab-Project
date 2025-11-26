@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
 //1: defining structures (9 total)
@@ -1182,4 +1181,5 @@ int main() {
         }
     } while (choice != 11);
     return 0;
+
 }
